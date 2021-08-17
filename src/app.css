@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+}
+
+.rete-container {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  right: 5%;
+  bottom: 5%;
+  box-shadow: 0 0 0 1px black;
+}
